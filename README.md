@@ -85,6 +85,6 @@ https://youtu.be/your-demo-video-link
 
 ## 👤 Name
 **Mayank Lande**  
-mayanklande125@gmail.com
-9130308422
+**mayanklande125@gmail.com**
+**9130308422**
 
