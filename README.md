@@ -81,7 +81,7 @@ Once the server starts, open your web browser and go to:
 The AutoJudge web interface will now be running locally and ready to use.
 
 ## 🎥 Demo Video
-[https://youtu.be/your-demo-video-link](https://youtu.be/VkmeMtWua04?feature=shared)
+https://youtu.be/VkmeMtWua04?feature=shared
 
 ## 👤 Name
 **Mayank Lande**  
