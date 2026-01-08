@@ -44,8 +44,8 @@ Streamlit-based web app where users enter problem details and get predicted diff
 
 ## 🚀 Steps to Run Locally
 ```bash
-git clone https://github.com/your-username/AutoJudge.git
-cd AutoJudge
+git clone https://github.com/mayank-141106/Autojudge.git
+cd Autojudge
 pip install -r requirements.txt
 streamlit run app.py
 ```
