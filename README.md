@@ -42,13 +42,43 @@ Fields:
 ## 🌐 Web Interface
 Streamlit-based web app where users enter problem details and get predicted difficulty and score instantly.
 
-## 🚀 Steps to Run Locally
-```bash
-git clone https://github.com/mayank-141106/Autojudge.git
-cd Autojudge
+## 🚀 Steps to Run the Project Locally
+
+### Step 1: Clone the Repository
+Open a terminal or command prompt and run the following command:
+git clone https://github.com/your-username/AutoJudge.git
+
+### Step 2: Navigate to the Project Directory
+Change into the project directory:
+cd AutoJudge
+
+### Step 3: (Optional) Create and Activate a Virtual Environment
+Creating a virtual environment is recommended to avoid dependency conflicts.
+
+Create the virtual environment:
+python -m venv venv
+
+Activate the virtual environment:
+
+For Windows:
+venv\Scripts\activate
+
+For Linux / macOS:
+source venv/bin/activate
+
+### Step 4: Install Required Dependencies
+Install all required Python packages using:
 pip install -r requirements.txt
+
+### Step 5: Run the Streamlit Web Application
+Start the Streamlit application using:
 streamlit run app.py
-```
+
+### Step 6: Access the Application
+Once the server starts, open your web browser and go to:
+http://localhost:8501
+
+The AutoJudge web interface will now be running locally and ready to use.
 
 ## 🎥 Demo Video
 https://youtu.be/your-demo-video-link
