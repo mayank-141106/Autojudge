@@ -36,7 +36,7 @@ Fields:
 - XGBoost (best)
 
 ## 📊 Evaluation Metrics
-- Classification: Accuracy
+- Classification: Accuracy,confusion matrix
 - Regression: MAE, RMSE
 
 ## 🌐 Web Interface
