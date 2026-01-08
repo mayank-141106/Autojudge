@@ -30,10 +30,10 @@ Fields:
 - XGBoost (best)
 
 ### Regression Models
-- Ridge
+- Ridge (best)
 - SVR
 - Random Forest
-- XGBoost (best)
+- XGBoost
 
 ## 📊 Evaluation Metrics
 - Classification: Accuracy,confusion matrix
